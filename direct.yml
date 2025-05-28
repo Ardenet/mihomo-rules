@@ -1,107 +1,107 @@
 payload:
-  - DOMAIN-KEYWORD, myd
-  - DOMAIN-KEYWORD, meiyd
-  - DOMAIN-KEYWORD, ikzy
-  - DOMAIN-KEYWORD, ikunzy
-  - DOMAIN-KEYWORD, lkvod
-  - DOMAIN-KEYWORD, fsvod
-  - DOMAIN-KEYWORD, ukubf
-  - DOMAIN-KEYWORD, freeok
-  - DOMAIN-KEYWORD, zhuiyingmao
-  - DOMAIN-KEYWORD, cdnlz
-  - DOMAIN-KEYWORD, lzcdn
-  - DOMAIN-KEYWORD, lz-cdn
-  - DOMAIN-KEYWORD, play-cdn
-  - DOMAIN-KEYWORD, ffzy
-  - DOMAIN-SUFFIX, dious.cc
-  - DOMAIN-SUFFIX, npmmirror.com
-  - DOMAIN-SUFFIX, hf-mirror.com
-  - DOMAIN-SUFFIX, pytorch.org
-  - DOMAIN-SUFFIX, postman.com
-  - DOMAIN-SUFFIX, yoyys1.com
-  - DOMAIN-SUFFIX, baozimh.com
-  - DOMAIN-SUFFIX, immmm.top
-  - DOMAIN-SUFFIX, www.4kvm.org
-  - DOMAIN-SUFFIX, ddkk.tv
-  - DOMAIN-SUFFIX, jx.tudo.fun
-  - DOMAIN-SUFFIX, v16.topbuzzcdn.com
-  - DOMAIN-SUFFIX, iptv.b2og.com
-  - DOMAIN-SUFFIX, www.6080yy4.com
-  - DOMAIN-REGEX, ukuapi\w*\.com
-  - DOMAIN, svip.high22-playback.com
-  - DOMAIN-SUFFIX, xn--it-if7c19g5s4bps5c.com
-  - DOMAIN-SUFFIX, hmcl.net
-  - DOMAIN-SUFFIX, overleaf.com
-  - DOMAIN-SUFFIX, www.mrsd.top
-  - DOMAIN-SUFFIX, ittushu.net
-  - DOMAIN-SUFFIX, www.ikdmjx.com
-  - DOMAIN-SUFFIX, bfikuncdn.com
-  - DOMAIN-SUFFIX, kkzycdn.com
-  - DOMAIN-SUFFIX, www.letv.lol
-  - DOMAIN-SUFFIX, feisuzyapi.com
-  - DOMAIN-SUFFIX, tiankongapi.com
-  - DOMAIN, 2024ylctf.yuanloo.com
-  - DOMAIN-SUFFIX, latexlive.com
-  - DOMAIN, cj.lziapi.com
-  - DOMAIN, longxincup.longxintec.com
-  - DOMAIN, 36kdh.com
-  - DOMAIN, www.mandaow.com
-  - DOMAIN-SUFFIX, maj-soul.net
-  - DOMAIN, starship.rs
-  - DOMAIN-SUFFIX, tk.enncy.cn
-  - DOMAIN-SUFFIX, icodef.com
-  - DOMAIN-SUFFIX, hello-ctf.com
-  - DOMAIN-SUFFIX, nssctf.wdf.ink
-  - DOMAIN-SUFFIX, cqooc.com
-  - DOMAIN-SUFFIX, ke-mi.vip
-  - DOMAIN-SUFFIX, vidz.asia
-  - DOMAIN-SUFFIX, tlkqc.com
-  - DOMAIN-SUFFIX, lmnno.com
-  - DOMAIN-SUFFIX, heimuer.tv
-  - DOMAIN-REGEX, vidhub\d+?\.cc
-  - DOMAIN-SUFFIX, bajie.ac
-  - DOMAIN-SUFFIX, astro-init.top
-  - DOMAIN-SUFFIX, blbtgg.com
-  - DOMAIN-SUFFIX, 6umkq9b.com
-  - DOMAIN-SUFFIX, gduamoe.com
-  - DOMAIN-SUFFIX, 1lou.me
-  - DOMAIN-SUFFIX, cyberworks.vip
-  - DOMAIN, terraria.wiki.gg
-  - DOMAIN-SUFFIX, haowallpaper.com
-  - DOMAIN-REGEX, .*huawei\d+\.live
-  - DOMAIN-REGEX, .*rrcdnbf\d+\.com
-  - DOMAIN-SUFFIX, cachix.org
-  - DOMAIN-REGEX, (?<!cache.*)nixos\.org
-  - DOMAIN-SUFFIX, nixos.wiki
-  - DOMAIN-SUFFIX, mousegesturesapi.com
-  - DOMAIN-SUFFIX, kali.download
+  - DOMAIN-KEYWORD,myd
+  - DOMAIN-KEYWORD,meiyd
+  - DOMAIN-KEYWORD,ikzy
+  - DOMAIN-KEYWORD,ikunzy
+  - DOMAIN-KEYWORD,lkvod
+  - DOMAIN-KEYWORD,fsvod
+  - DOMAIN-KEYWORD,ukubf
+  - DOMAIN-KEYWORD,freeok
+  - DOMAIN-KEYWORD,zhuiyingmao
+  - DOMAIN-KEYWORD,cdnlz
+  - DOMAIN-KEYWORD,lzcdn
+  - DOMAIN-KEYWORD,lz-cdn
+  - DOMAIN-KEYWORD,play-cdn
+  - DOMAIN-KEYWORD,ffzy
+  - DOMAIN-SUFFIX,dious.cc
+  - DOMAIN-SUFFIX,npmmirror.com
+  - DOMAIN-SUFFIX,hf-mirror.com
+  - DOMAIN-SUFFIX,pytorch.org
+  - DOMAIN-SUFFIX,postman.com
+  - DOMAIN-SUFFIX,yoyys1.com
+  - DOMAIN-SUFFIX,baozimh.com
+  - DOMAIN-SUFFIX,immmm.top
+  - DOMAIN-SUFFIX,www.4kvm.org
+  - DOMAIN-SUFFIX,ddkk.tv
+  - DOMAIN-SUFFIX,jx.tudo.fun
+  - DOMAIN-SUFFIX,v16.topbuzzcdn.com
+  - DOMAIN-SUFFIX,iptv.b2og.com
+  - DOMAIN-SUFFIX,www.6080yy4.com
+  - DOMAIN-REGEX,ukuapi\w*\.com
+  - DOMAIN,svip.high22-playback.com
+  - DOMAIN-SUFFIX,xn--it-if7c19g5s4bps5c.com
+  - DOMAIN-SUFFIX,hmcl.net
+  - DOMAIN-SUFFIX,overleaf.com
+  - DOMAIN-SUFFIX,www.mrsd.top
+  - DOMAIN-SUFFIX,ittushu.net
+  - DOMAIN-SUFFIX,www.ikdmjx.com
+  - DOMAIN-SUFFIX,bfikuncdn.com
+  - DOMAIN-SUFFIX,kkzycdn.com
+  - DOMAIN-SUFFIX,www.letv.lol
+  - DOMAIN-SUFFIX,feisuzyapi.com
+  - DOMAIN-SUFFIX,tiankongapi.com
+  - DOMAIN,2024ylctf.yuanloo.com
+  - DOMAIN-SUFFIX,latexlive.com
+  - DOMAIN,cj.lziapi.com
+  - DOMAIN,longxincup.longxintec.com
+  - DOMAIN,36kdh.com
+  - DOMAIN,www.mandaow.com
+  - DOMAIN-SUFFIX,maj-soul.net
+  - DOMAIN,starship.rs
+  - DOMAIN-SUFFIX,tk.enncy.cn
+  - DOMAIN-SUFFIX,icodef.com
+  - DOMAIN-SUFFIX,hello-ctf.com
+  - DOMAIN-SUFFIX,nssctf.wdf.ink
+  - DOMAIN-SUFFIX,cqooc.com
+  - DOMAIN-SUFFIX,ke-mi.vip
+  - DOMAIN-SUFFIX,vidz.asia
+  - DOMAIN-SUFFIX,tlkqc.com
+  - DOMAIN-SUFFIX,lmnno.com
+  - DOMAIN-SUFFIX,heimuer.tv
+  - DOMAIN-REGEX,vidhub\d+?\.cc
+  - DOMAIN-SUFFIX,bajie.ac
+  - DOMAIN-SUFFIX,astro-init.top
+  - DOMAIN-SUFFIX,blbtgg.com
+  - DOMAIN-SUFFIX,6umkq9b.com
+  - DOMAIN-SUFFIX,gduamoe.com
+  - DOMAIN-SUFFIX,1lou.me
+  - DOMAIN-SUFFIX,cyberworks.vip
+  - DOMAIN,terraria.wiki.gg
+  - DOMAIN-SUFFIX,haowallpaper.com
+  - DOMAIN-REGEX,.*huawei\d+\.live
+  - DOMAIN-REGEX,.*rrcdnbf\d+\.com
+  - DOMAIN-SUFFIX,cachix.org
+  - DOMAIN-REGEX,(?<!cache.*)nixos\.org
+  - DOMAIN-SUFFIX,nixos.wiki
+  - DOMAIN-SUFFIX,mousegesturesapi.com
+  - DOMAIN-SUFFIX,kali.download
 
-  - DOMAIN-SUFFIX, steam-chat.com
-  - DOMAIN-SUFFIX, steamcontent.com
-  - DOMAIN-SUFFIX, steamgames.com
-  - DOMAIN-SUFFIX, steampowered.com
-  - DOMAIN-SUFFIX, steamstat.us
-  - DOMAIN-SUFFIX, steamstatic.com
-  - DOMAIN-SUFFIX, steamusercontent.com
-  - DOMAIN, steambroadcast.akamaized.net
-  - DOMAIN, steamcdn-a.akamaihd.net
-  - DOMAIN, steamcommunity-a.akamaihd.net
-  - DOMAIN, steamstore-a.akamaihd.net
-  - DOMAIN, steamusercontent-a.akamaihd.net
-  - DOMAIN, steamusercontent-a.akamaihd.net
-  - DOMAIN, steamuserimages-a.akamaihd.net
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstat.us
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN,steambroadcast.akamaized.net
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN,steamcommunity-a.akamaihd.net
+  - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamusercontent-a.akamaihd.net
+  - DOMAIN,steamusercontent-a.akamaihd.net
+  - DOMAIN,steamuserimages-a.akamaihd.net
 
-  - DOMAIN-SUFFIX, individual.githubcopilot.com
-  - DOMAIN-SUFFIX, cjhwba.com
-  - DOMAIN, m3u.nikanba.live
-  - DOMAIN, api.wujinapi.me
-  - DOMAIN, v12.qewbn.com
-  - DOMAIN-SUFFIX, edge4k.com
-  - DOMAIN-SUFFIX, ati.com
-  - DOMAIN-SUFFIX, coze.cn
-  - DOMAIN-SUFFIX, kermitt2-grobid.hf.space
-  - DOMAIN-SUFFIX, zotero.org
-  - DOMAIN-SUFFIX, okzyw.cc
-  - DOMAIN-SUFFIX, bxgbnet.com
-  - DOMAIN-SUFFIX, 9bcdf.com
-  - DOMAIN-SUFFIX, sdzyapi.com
+  - DOMAIN-SUFFIX,individual.githubcopilot.com
+  - DOMAIN-SUFFIX,cjhwba.com
+  - DOMAIN,m3u.nikanba.live
+  - DOMAIN,api.wujinapi.me
+  - DOMAIN,v12.qewbn.com
+  - DOMAIN-SUFFIX,edge4k.com
+  - DOMAIN-SUFFIX,ati.com
+  - DOMAIN-SUFFIX,coze.cn
+  - DOMAIN-SUFFIX,kermitt2-grobid.hf.space
+  - DOMAIN-SUFFIX,zotero.org
+  - DOMAIN-SUFFIX,okzyw.cc
+  - DOMAIN-SUFFIX,bxgbnet.com
+  - DOMAIN-SUFFIX,9bcdf.com
+  - DOMAIN-SUFFIX,sdzyapi.com
