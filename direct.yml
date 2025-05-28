@@ -1,109 +1,107 @@
 payload:
-  - DOMAIN-KEYWORD,myd,DIRECT
-  - DOMAIN-KEYWORD,meiyd,DIRECT
-  - DOMAIN-KEYWORD,ikzy, DIRECT
-  - DOMAIN-SUFFIX, dious.cc, DIRECT
-  - DOMAIN-KEYWORD, fsvod, DIRECT
-  - DOMAIN-KEYWORD, ukubf, DIRECT
-  - DOMAIN-SUFFIX, npmmirror.com, DIRECT
-  - DOMAIN-SUFFIX, hf-mirror.com, DIRECT
-  - DOMAIN-SUFFIX, pytorch.org, DIRECT
-  - DOMAIN-SUFFIX, ikunzyapi.com, DIRECT
-  - DOMAIN-SUFFIX, postman.co, DIRECT
-  - DOMAIN-SUFFIX, postman.com, DIRECT
-  - DOMAIN-SUFFIX, yoyys1.com, DIRECT
-  - DOMAIN-KEYWORD, freeok, DIRECT
-  - DOMAIN-SUFFIX, baozimh.com, DIRECT
-  - DOMAIN-SUFFIX, immmm.top, DIRECT
-  - DOMAIN-SUFFIX, www.4kvm.org, DIRECT
-  - DOMAIN-SUFFIX, ddkk.tv, DIRECT
-  - DOMAIN-SUFFIX, jx.tudo.fun, DIRECT
-  - DOMAIN-SUFFIX, v16.topbuzzcdn.com, DIRECT
-  - DOMAIN-SUFFIX, iptv.b2og.com, DIRECT
-  - DOMAIN-SUFFIX, www.6080yy4.com, DIRECT
-  - DOMAIN-KEYWORD, zhuiyingmao, DIRECT
-  - DOMAIN-REGEX,ukuapi\w*\.com,DIRECT
-  - DOMAIN,www.myd03.com,DIRECT
-  - DOMAIN,lkvod.me,DIRECT
-  - DOMAIN,lkvod.us,DIRECT
-  - DOMAIN,svip.high22-playback.com,DIRECT
-  - DOMAIN-SUFFIX,xn--it-if7c19g5s4bps5c.com,DIRECT
-  - DOMAIN,docs.hmcl.net,DIRECT
-  - PROCESS-PATH,'C:\Program Files\LocalSend\localsend_app.exe',DIRECT
-  - DOMAIN-SUFFIX,overleaf.com,DIRECT
-  - DOMAIN-SUFFIX,www.mrsd.top,DIRECT
-  - DOMAIN-SUFFIX,ittushu.net,DIRECT
-  - DOMAIN-SUFFIX,www.ikdmjx.com,DIRECT
-  - DOMAIN-SUFFIX,bfikuncdn.com,DIRECT
-  - DOMAIN-SUFFIX,kkzycdn.com,DIRECT
-  - DOMAIN-SUFFIX,www.letv.lol,DIRECT
-  - DOMAIN-SUFFIX,feisuzyapi.com,DIRECT
-  - DOMAIN-SUFFIX,tiankongapi.com,DIRECT
-  - DOMAIN,2024ylctf.yuanloo.com,DIRECT
-  - DOMAIN,www.latexlive.com,DIRECT
-  - DOMAIN-KEYWORD,cdnlz,DIRECT
-  - DOMAIN-KEYWORD,lzcdn,DIRECT
-  - DOMAIN,cj.lziapi.com,DIRECT
-  - DOMAIN,longxincup.longxintec.com,DIRECT
-  - DOMAIN,36kdh.com,DIRECT
-  - DOMAIN,www.mandaow.com,DIRECT
-  - DOMAIN-SUFFIX,maj-soul.net,DIRECT
-  - DOMAIN-KEYWORD,lz-cdn,DIRECT
-  - DOMAIN,starship.rs,DIRECT
-  - DOMAIN-KEYWORD, play-cdn, DIRECT
-  - DOMAIN-KEYWORD, ffzy, DIRECT
-  - DOMAIN-SUFFIX, tk.enncy.cn, DIRECT
-  - DOMAIN-SUFFIX, icodef.com, DIRECT
-  - DOMAIN-SUFFIX, hello-ctf.com, DIRECT
-  - DOMAIN-SUFFIX, nssctf.wdf.ink, DIRECT
-  - DOMAIN-SUFFIX, cqooc.com, DIRECT
-  - DOMAIN-SUFFIX, ke-mi.vip, DIRECT
-  - DOMAIN-SUFFIX, vidz.asia, DIRECT
-  - DOMAIN-SUFFIX, tlkqc.com, DIRECT
-  - DOMAIN-SUFFIX, lmnno.com, DIRECT
-  - DOMAIN-SUFFIX, heimuer.tv, DIRECT
-  - DOMAIN-REGEX, vidhub\d+?\.cc, DIRECT
-  - DOMAIN-SUFFIX, bajie.ac, DIRECT
-  - DOMAIN-SUFFIX, astro-init.top, DIRECT
-  - DOMAIN-SUFFIX, blbtgg.com, DIRECT
-  - DOMAIN-SUFFIX, 6umkq9b.com, DIRECT
-  - DOMAIN-SUFFIX, gduamoe.com, DIRECT
-  - DOMAIN-SUFFIX, 1lou.me, DIRECT
-  - DOMAIN-SUFFIX, cyberworks.vip, DIRECT
-  - DOMAIN, terraria.wiki.gg, DIRECT
-  - DOMAIN-SUFFIX, haowallpaper.com, DIRECT
-  - DOMAIN-REGEX, .*huawei\d+\.live, DIRECT
-  - DOMAIN-REGEX, .*rrcdnbf\d+\.com, DIRECT
-  - DOMAIN-SUFFIX, cachix.org, DIRECT
-  - DOMAIN-REGEX, (?<!cache.*)nixos\.org, DIRECT
-  - DOMAIN-SUFFIX, nixos.wiki, DIRECT
-  - DOMAIN-SUFFIX, mousegesturesapi.com, DIRECT
-  - DOMAIN-SUFFIX,kali.download,DIRECT
-  - DOMAIN-SUFFIX,steam-chat.com,DIRECT
-  - DOMAIN-SUFFIX,steamcontent.com,DIRECT
-  - DOMAIN-SUFFIX,steamgames.com,DIRECT
-  - DOMAIN-SUFFIX,steampowered.com,DIRECT
-  - DOMAIN-SUFFIX,steamstat.us,DIRECT
-  - DOMAIN-SUFFIX,steamstatic.com,DIRECT
-  - DOMAIN-SUFFIX,steamusercontent.com,DIRECT
-  - DOMAIN,steambroadcast.akamaized.net,DIRECT
-  - DOMAIN,steamcdn-a.akamaihd.net,DIRECT
-  - DOMAIN,steamcommunity-a.akamaihd.net,DIRECT
-  - DOMAIN,steamstore-a.akamaihd.net,DIRECT
-  - DOMAIN,steamusercontent-a.akamaihd.net,DIRECT
-  - DOMAIN,steamusercontent-a.akamaihd.net,DIRECT
-  - DOMAIN,steamuserimages-a.akamaihd.net,DIRECT
-  - DOMAIN-SUFFIX,individual.githubcopilot.com,DIRECT
-  - DOMAIN-SUFFIX,cjhwba.com,DIRECT
-  - DOMAIN,m3u.nikanba.live,DIRECT
-  - DOMAIN,api.wujinapi.me,DIRECT
-  - DOMAIN,v12.qewbn.com,DIRECT
-  - DOMAIN-SUFFIX,edge4k.com,DIRECT
-  - DOMAIN-SUFFIX,ati.com,DIRECT
-  - DOMAIN-SUFFIX,coze.cn,DIRECT
-  - DOMAIN-SUFFIX,kermitt2-grobid.hf.space,DIRECT
-  - DOMAIN-SUFFIX,zotero.org,DIRECT
-  - DOMAIN-SUFFIX,okzyw.cc,DIRECT
-  - DOMAIN-SUFFIX,bxgbnet.com,DIRECT
-  - DOMAIN-SUFFIX,9bcdf.com,DIRECT
-  - DOMAIN-SUFFIX,sdzyapi.com,DIRECT
+  - DOMAIN-KEYWORD, myd
+  - DOMAIN-KEYWORD, meiyd
+  - DOMAIN-KEYWORD, ikzy
+  - DOMAIN-KEYWORD, ikunzy
+  - DOMAIN-KEYWORD, lkvod
+  - DOMAIN-KEYWORD, fsvod
+  - DOMAIN-KEYWORD, ukubf
+  - DOMAIN-KEYWORD, freeok
+  - DOMAIN-KEYWORD, zhuiyingmao
+  - DOMAIN-KEYWORD, cdnlz
+  - DOMAIN-KEYWORD, lzcdn
+  - DOMAIN-KEYWORD, lz-cdn
+  - DOMAIN-KEYWORD, play-cdn
+  - DOMAIN-KEYWORD, ffzy
+  - DOMAIN-SUFFIX, dious.cc
+  - DOMAIN-SUFFIX, npmmirror.com
+  - DOMAIN-SUFFIX, hf-mirror.com
+  - DOMAIN-SUFFIX, pytorch.org
+  - DOMAIN-SUFFIX, postman.com
+  - DOMAIN-SUFFIX, yoyys1.com
+  - DOMAIN-SUFFIX, baozimh.com
+  - DOMAIN-SUFFIX, immmm.top
+  - DOMAIN-SUFFIX, www.4kvm.org
+  - DOMAIN-SUFFIX, ddkk.tv
+  - DOMAIN-SUFFIX, jx.tudo.fun
+  - DOMAIN-SUFFIX, v16.topbuzzcdn.com
+  - DOMAIN-SUFFIX, iptv.b2og.com
+  - DOMAIN-SUFFIX, www.6080yy4.com
+  - DOMAIN-REGEX, ukuapi\w*\.com
+  - DOMAIN, svip.high22-playback.com
+  - DOMAIN-SUFFIX, xn--it-if7c19g5s4bps5c.com
+  - DOMAIN-SUFFIX, hmcl.net
+  - DOMAIN-SUFFIX, overleaf.com
+  - DOMAIN-SUFFIX, www.mrsd.top
+  - DOMAIN-SUFFIX, ittushu.net
+  - DOMAIN-SUFFIX, www.ikdmjx.com
+  - DOMAIN-SUFFIX, bfikuncdn.com
+  - DOMAIN-SUFFIX, kkzycdn.com
+  - DOMAIN-SUFFIX, www.letv.lol
+  - DOMAIN-SUFFIX, feisuzyapi.com
+  - DOMAIN-SUFFIX, tiankongapi.com
+  - DOMAIN, 2024ylctf.yuanloo.com
+  - DOMAIN-SUFFIX, latexlive.com
+  - DOMAIN, cj.lziapi.com
+  - DOMAIN, longxincup.longxintec.com
+  - DOMAIN, 36kdh.com
+  - DOMAIN, www.mandaow.com
+  - DOMAIN-SUFFIX, maj-soul.net
+  - DOMAIN, starship.rs
+  - DOMAIN-SUFFIX, tk.enncy.cn
+  - DOMAIN-SUFFIX, icodef.com
+  - DOMAIN-SUFFIX, hello-ctf.com
+  - DOMAIN-SUFFIX, nssctf.wdf.ink
+  - DOMAIN-SUFFIX, cqooc.com
+  - DOMAIN-SUFFIX, ke-mi.vip
+  - DOMAIN-SUFFIX, vidz.asia
+  - DOMAIN-SUFFIX, tlkqc.com
+  - DOMAIN-SUFFIX, lmnno.com
+  - DOMAIN-SUFFIX, heimuer.tv
+  - DOMAIN-REGEX, vidhub\d+?\.cc
+  - DOMAIN-SUFFIX, bajie.ac
+  - DOMAIN-SUFFIX, astro-init.top
+  - DOMAIN-SUFFIX, blbtgg.com
+  - DOMAIN-SUFFIX, 6umkq9b.com
+  - DOMAIN-SUFFIX, gduamoe.com
+  - DOMAIN-SUFFIX, 1lou.me
+  - DOMAIN-SUFFIX, cyberworks.vip
+  - DOMAIN, terraria.wiki.gg
+  - DOMAIN-SUFFIX, haowallpaper.com
+  - DOMAIN-REGEX, .*huawei\d+\.live
+  - DOMAIN-REGEX, .*rrcdnbf\d+\.com
+  - DOMAIN-SUFFIX, cachix.org
+  - DOMAIN-REGEX, (?<!cache.*)nixos\.org
+  - DOMAIN-SUFFIX, nixos.wiki
+  - DOMAIN-SUFFIX, mousegesturesapi.com
+  - DOMAIN-SUFFIX, kali.download
+
+  - DOMAIN-SUFFIX, steam-chat.com
+  - DOMAIN-SUFFIX, steamcontent.com
+  - DOMAIN-SUFFIX, steamgames.com
+  - DOMAIN-SUFFIX, steampowered.com
+  - DOMAIN-SUFFIX, steamstat.us
+  - DOMAIN-SUFFIX, steamstatic.com
+  - DOMAIN-SUFFIX, steamusercontent.com
+  - DOMAIN, steambroadcast.akamaized.net
+  - DOMAIN, steamcdn-a.akamaihd.net
+  - DOMAIN, steamcommunity-a.akamaihd.net
+  - DOMAIN, steamstore-a.akamaihd.net
+  - DOMAIN, steamusercontent-a.akamaihd.net
+  - DOMAIN, steamusercontent-a.akamaihd.net
+  - DOMAIN, steamuserimages-a.akamaihd.net
+
+  - DOMAIN-SUFFIX, individual.githubcopilot.com
+  - DOMAIN-SUFFIX, cjhwba.com
+  - DOMAIN, m3u.nikanba.live
+  - DOMAIN, api.wujinapi.me
+  - DOMAIN, v12.qewbn.com
+  - DOMAIN-SUFFIX, edge4k.com
+  - DOMAIN-SUFFIX, ati.com
+  - DOMAIN-SUFFIX, coze.cn
+  - DOMAIN-SUFFIX, kermitt2-grobid.hf.space
+  - DOMAIN-SUFFIX, zotero.org
+  - DOMAIN-SUFFIX, okzyw.cc
+  - DOMAIN-SUFFIX, bxgbnet.com
+  - DOMAIN-SUFFIX, 9bcdf.com
+  - DOMAIN-SUFFIX, sdzyapi.com
