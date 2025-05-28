@@ -71,7 +71,7 @@ payload:
   - DOMAIN-REGEX,.*huawei\d+\.live
   - DOMAIN-REGEX,.*rrcdnbf\d+\.com
   - DOMAIN-SUFFIX,cachix.org
-  - DOMAIN-REGEX,(?<!cache.*)nixos\.org
+  - DOMAIN-REGEX,(?<!(cache.*|wiki\.))nixos\.org
   - DOMAIN-SUFFIX,nixos.wiki
   - DOMAIN-SUFFIX,mousegesturesapi.com
   - DOMAIN-SUFFIX,kali.download
@@ -105,3 +105,6 @@ payload:
   - DOMAIN-SUFFIX,bxgbnet.com
   - DOMAIN-SUFFIX,9bcdf.com
   - DOMAIN-SUFFIX,sdzyapi.com
+  - DOMAIN-SUFFIX,isc.org
+  - DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
+  - DOMAIN-SUFFIX,ppdys.vip
