@@ -75,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,nixos.wiki
   - DOMAIN-SUFFIX,mousegesturesapi.com
   - DOMAIN-SUFFIX,kali.download
+  - DOMAIN-SUFFIX,pstream.org
 
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcontent.com
