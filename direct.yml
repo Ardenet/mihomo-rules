@@ -79,6 +79,9 @@ payload:
   - DOMAIN,download.epicgames.com
   - DOMAIN-REGEX,epicgames-download\d\.akamaized\.net
   - DOMAIN,vvip.high26-playback.com
+  - DOMAIN,p.b8bf.com
+  - DOMAIN-SUFFIX,55dy1.com
+  - DOMAIN-SUFFIX,dytt-cinema.com
 
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcontent.com
