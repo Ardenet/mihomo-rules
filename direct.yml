@@ -66,7 +66,6 @@ payload:
   - DOMAIN-SUFFIX,gduamoe.com
   - DOMAIN-SUFFIX,1lou.me
   - DOMAIN-SUFFIX,cyberworks.vip
-  - DOMAIN,terraria.wiki.gg
   - DOMAIN-SUFFIX,haowallpaper.com
   - DOMAIN-REGEX,.*huawei\d+\.live
   - DOMAIN-REGEX,.*rrcdnbf\d+\.com
@@ -82,6 +81,7 @@ payload:
   - DOMAIN,p.b8bf.com
   - DOMAIN-SUFFIX,55dy1.com
   - DOMAIN-SUFFIX,dytt-cinema.com
+  - DOMAIN-SUFFIX,wiki.gg
 
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcontent.com
