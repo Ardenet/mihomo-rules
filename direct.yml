@@ -115,3 +115,7 @@ payload:
   - DOMAIN-SUFFIX,isc.org
   - DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
   - DOMAIN-SUFFIX,ppdys.vip
+  - DOMAIN-SUFFIX,myrqsb.com
+  - DOMAIN-SUFFIX,qkys1.vip
+  - DOMAIN-SUFFIX,typst.app
+  - PROCESS-NAME,parsecd.exe
