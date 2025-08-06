@@ -1,4 +1,34 @@
 payload:
+  # steam 直连资源域名
+  - DOMAIN,steambroadcast.akamaized.net
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN,steamcommunity-a.akamaihd.net
+  - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamusercontent-a.akamaihd.net
+  - DOMAIN,steamusercontent-a.akamaihd.net
+  - DOMAIN,steamuserimages-a.akamaihd.net
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstat.us
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+
+  - DOMAIN,m3u.nikanba.live
+  - DOMAIN,api.wujinapi.me
+  - DOMAIN,v12.qewbn.com
+  - DOMAIN,svip.high22-playback.com
+  - DOMAIN,2024ylctf.yuanloo.com
+  - DOMAIN,cj.lziapi.com
+  - DOMAIN,longxincup.longxintec.com
+  - DOMAIN,36kdh.com
+  - DOMAIN,www.mandaow.com
+  - DOMAIN,starship.rs
+  - DOMAIN,download.epicgames.com
+  - DOMAIN,vvip.high26-playback.com
+  - DOMAIN,p.b8bf.com
+  
   - DOMAIN-KEYWORD,myd
   - DOMAIN-KEYWORD,meiyd
   - DOMAIN-KEYWORD,ikzy
@@ -13,6 +43,7 @@ payload:
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,play-cdn
   - DOMAIN-KEYWORD,ffzy
+  
   - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,npmmirror.com
   - DOMAIN-SUFFIX,hf-mirror.com
@@ -27,8 +58,6 @@ payload:
   - DOMAIN-SUFFIX,v16.topbuzzcdn.com
   - DOMAIN-SUFFIX,iptv.b2og.com
   - DOMAIN-SUFFIX,www.6080yy4.com
-  - DOMAIN-REGEX,ukuapi\w*\.com
-  - DOMAIN,svip.high22-playback.com
   - DOMAIN-SUFFIX,xn--it-if7c19g5s4bps5c.com
   - DOMAIN-SUFFIX,hmcl.net
   - DOMAIN-SUFFIX,overleaf.com
@@ -40,14 +69,8 @@ payload:
   - DOMAIN-SUFFIX,www.letv.lol
   - DOMAIN-SUFFIX,feisuzyapi.com
   - DOMAIN-SUFFIX,tiankongapi.com
-  - DOMAIN,2024ylctf.yuanloo.com
   - DOMAIN-SUFFIX,latexlive.com
-  - DOMAIN,cj.lziapi.com
-  - DOMAIN,longxincup.longxintec.com
-  - DOMAIN,36kdh.com
-  - DOMAIN,www.mandaow.com
   - DOMAIN-SUFFIX,maj-soul.net
-  - DOMAIN,starship.rs
   - DOMAIN-SUFFIX,tk.enncy.cn
   - DOMAIN-SUFFIX,icodef.com
   - DOMAIN-SUFFIX,hello-ctf.com
@@ -58,7 +81,6 @@ payload:
   - DOMAIN-SUFFIX,tlkqc.com
   - DOMAIN-SUFFIX,lmnno.com
   - DOMAIN-SUFFIX,heimuer.tv
-  - DOMAIN-REGEX,vidhub\d+?\.cc
   - DOMAIN-SUFFIX,bajie.ac
   - DOMAIN-SUFFIX,astro-init.top
   - DOMAIN-SUFFIX,blbtgg.com
@@ -67,42 +89,20 @@ payload:
   - DOMAIN-SUFFIX,1lou.me
   - DOMAIN-SUFFIX,cyberworks.vip
   - DOMAIN-SUFFIX,haowallpaper.com
-  - DOMAIN-REGEX,.*huawei\d+\.live
-  - DOMAIN-REGEX,.*rrcdnbf\d+\.com
   - DOMAIN-SUFFIX,cachix.org
-  - DOMAIN-REGEX,(?<!(cache.*|wiki\.))nixos\.org
   - DOMAIN-SUFFIX,nixos.wiki
   - DOMAIN-SUFFIX,mousegesturesapi.com
   - DOMAIN-SUFFIX,kali.download
   - DOMAIN-SUFFIX,pstream.org
-  - DOMAIN,download.epicgames.com
-  - DOMAIN-REGEX,epicgames-download\d\.akamaized\.net
-  - DOMAIN,vvip.high26-playback.com
-  - DOMAIN,p.b8bf.com
   - DOMAIN-SUFFIX,55dy1.com
   - DOMAIN-SUFFIX,dytt-cinema.com
   - DOMAIN-SUFFIX,wiki.gg
-
-  - DOMAIN-SUFFIX,steam-chat.com
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steamgames.com
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamstat.us
-  - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamusercontent.com
-  - DOMAIN,steambroadcast.akamaized.net
-  - DOMAIN,steamcdn-a.akamaihd.net
-  - DOMAIN,steamcommunity-a.akamaihd.net
-  - DOMAIN,steamstore-a.akamaihd.net
-  - DOMAIN,steamusercontent-a.akamaihd.net
-  - DOMAIN,steamusercontent-a.akamaihd.net
-  - DOMAIN,steamuserimages-a.akamaihd.net
-
+  - DOMAIN-SUFFIX,yhdmjx.com
+  - DOMAIN-SUFFIX,yinghuazy.xyz
+  - DOMAIN-SUFFIX,295k.cc
+  - DOMAIN-SUFFIX,hypstarcdn.com
   - DOMAIN-SUFFIX,individual.githubcopilot.com
   - DOMAIN-SUFFIX,cjhwba.com
-  - DOMAIN,m3u.nikanba.live
-  - DOMAIN,api.wujinapi.me
-  - DOMAIN,v12.qewbn.com
   - DOMAIN-SUFFIX,edge4k.com
   - DOMAIN-SUFFIX,ati.com
   - DOMAIN-SUFFIX,coze.cn
@@ -118,4 +118,12 @@ payload:
   - DOMAIN-SUFFIX,myrqsb.com
   - DOMAIN-SUFFIX,qkys1.vip
   - DOMAIN-SUFFIX,typst.app
+  
+  - DOMAIN-REGEX,ukuapi\w*\.com
+  - DOMAIN-REGEX,vidhub\d+?\.cc
+  - DOMAIN-REGEX,.*huawei\d+\.live
+  - DOMAIN-REGEX,.*rrcdnbf\d+\.com
+  - DOMAIN-REGEX,(?<!(cache.*|wiki\.))nixos\.org
+  - DOMAIN-REGEX,epicgames-download\d\.akamaized\.net
+  
   - PROCESS-NAME,parsecd.exe
