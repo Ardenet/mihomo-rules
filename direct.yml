@@ -20,14 +20,13 @@ payload:
   - DOMAIN,v12.qewbn.com
   - DOMAIN,svip.high22-playback.com
   - DOMAIN,2024ylctf.yuanloo.com
-  - DOMAIN,cj.lziapi.com
   - DOMAIN,longxincup.longxintec.com
-  - DOMAIN,36kdh.com
   - DOMAIN,www.mandaow.com
   - DOMAIN,starship.rs
   - DOMAIN,download.epicgames.com
   - DOMAIN,vvip.high26-playback.com
   - DOMAIN,p.b8bf.com
+  - DOMAIN,sentry.bga.li
   
   - DOMAIN-KEYWORD,myd
   - DOMAIN-KEYWORD,meiyd
@@ -118,6 +117,16 @@ payload:
   - DOMAIN-SUFFIX,myrqsb.com
   - DOMAIN-SUFFIX,qkys1.vip
   - DOMAIN-SUFFIX,typst.app
+  - DOMAIN-SUFFIX,lziapi.com
+  - DOMAIN-SUFFIX,viptulz.com
+  - DOMAIN-SUFFIX,808.games
+  - DOMAIN-SUFFIX,boardgamearena.net
+  - DOMAIN-SUFFIX,boardgamearena.com
+  - DOMAIN-SUFFIX,maccms.xyz
+  - DOMAIN-SUFFIX,union.dplayerjs.com
+  - DOMAIN-SUFFIX,qkys2.icu
+  - DOMAIN-SUFFIX,t2.qlplayer.cyou
+  - DOMAIN-SUFFIX,36kdh.com
   
   - DOMAIN-REGEX,ukuapi\w*\.com
   - DOMAIN-REGEX,vidhub\d+?\.cc
