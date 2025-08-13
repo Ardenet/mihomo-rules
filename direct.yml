@@ -27,6 +27,8 @@ payload:
   - DOMAIN,vvip.high26-playback.com
   - DOMAIN,p.b8bf.com
   - DOMAIN,sentry.bga.li
+  - DOMAIN,cdn.statically.io,DIRECT
+  - DOMAIN,aliyun-oss.bootscup.com,DIRECT
   
   - DOMAIN-KEYWORD,myd
   - DOMAIN-KEYWORD,meiyd
@@ -42,6 +44,7 @@ payload:
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,play-cdn
   - DOMAIN-KEYWORD,ffzy
+  - DOMAIN-KEYWORD,4kvm,DIRECT
   
   - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,npmmirror.com
@@ -127,6 +130,18 @@ payload:
   - DOMAIN-SUFFIX,qkys2.icu
   - DOMAIN-SUFFIX,t2.qlplayer.cyou
   - DOMAIN-SUFFIX,36kdh.com
+  - DOMAIN-SUFFIX,ifznedy1.com,DIRECT
+  - DOMAIN-SUFFIX,qiaozhixuexiao.com,DIRECT
+  - DOMAIN-SUFFIX,dmdy3.com,DIRECT
+  - DOMAIN-SUFFIX,vidyard.com,DIRECT
+  - DOMAIN-SUFFIX,conch.cc,DIRECT
+  - DOMAIN-SUFFIX,huohua.live,DIRECT
+  - DOMAIN-SUFFIX,bugutv.vip,DIRECT
+  - DOMAIN-SUFFIX,histat.com,DIRECT
+  - DOMAIN-SUFFIX,danmk.info,DIRECT
+  - DOMAIN-SUFFIX,gotomymv.life,DIRECT
+  - DOMAIN-SUFFIX,dytt-img.com,DIRECT
+  - DOMAIN-SUFFIX,857yhw.com,DIRECT
   
   - DOMAIN-REGEX,ukuapi\w*\.com
   - DOMAIN-REGEX,vidhub\d+?\.cc
