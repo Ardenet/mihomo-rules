@@ -45,6 +45,7 @@ payload:
   - DOMAIN-KEYWORD,play-cdn
   - DOMAIN-KEYWORD,ffzy
   - DOMAIN-KEYWORD,4kvm,DIRECT
+  - DOMAIN-KEYWORD,cdn,DIRECT
   
   - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,npmmirror.com
@@ -147,7 +148,7 @@ payload:
   - DOMAIN-REGEX,vidhub\d+?\.cc
   - DOMAIN-REGEX,.*huawei\d+\.live
   - DOMAIN-REGEX,.*rrcdnbf\d+\.com
-  - DOMAIN-REGEX,(?<!(cache.*|wiki\.))nixos\.org
+  - DOMAIN-REGEX,(?<!(cache.*|))nixos\.org
   - DOMAIN-REGEX,epicgames-download\d\.akamaized\.net
   
   - PROCESS-NAME,parsecd.exe
