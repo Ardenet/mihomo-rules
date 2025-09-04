@@ -27,25 +27,9 @@ payload:
   - DOMAIN,vvip.high26-playback.com
   - DOMAIN,p.b8bf.com
   - DOMAIN,sentry.bga.li
-  - DOMAIN,cdn.statically.io,DIRECT
-  - DOMAIN,aliyun-oss.bootscup.com,DIRECT
-  
-  - DOMAIN-KEYWORD,myd
-  - DOMAIN-KEYWORD,meiyd
-  - DOMAIN-KEYWORD,ikzy
-  - DOMAIN-KEYWORD,ikunzy
-  - DOMAIN-KEYWORD,lkvod
-  - DOMAIN-KEYWORD,fsvod
-  - DOMAIN-KEYWORD,ukubf
-  - DOMAIN-KEYWORD,freeok
-  - DOMAIN-KEYWORD,zhuiyingmao
-  - DOMAIN-KEYWORD,cdnlz
-  - DOMAIN-KEYWORD,lzcdn
-  - DOMAIN-KEYWORD,lz-cdn
-  - DOMAIN-KEYWORD,play-cdn
-  - DOMAIN-KEYWORD,ffzy
-  - DOMAIN-KEYWORD,4kvm,DIRECT
-  - DOMAIN-KEYWORD,cdn,DIRECT
+  - DOMAIN,aliyun-oss.bootscup.com
+  - DOMAIN,kermitt2-grobid.hf.space
+  - DOMAIN,individual.githubcopilot.com
   
   - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,npmmirror.com
@@ -55,10 +39,8 @@ payload:
   - DOMAIN-SUFFIX,yoyys1.com
   - DOMAIN-SUFFIX,baozimh.com
   - DOMAIN-SUFFIX,immmm.top
-  - DOMAIN-SUFFIX,www.4kvm.org
   - DOMAIN-SUFFIX,ddkk.tv
   - DOMAIN-SUFFIX,jx.tudo.fun
-  - DOMAIN-SUFFIX,v16.topbuzzcdn.com
   - DOMAIN-SUFFIX,iptv.b2og.com
   - DOMAIN-SUFFIX,www.6080yy4.com
   - DOMAIN-SUFFIX,xn--it-if7c19g5s4bps5c.com
@@ -67,8 +49,6 @@ payload:
   - DOMAIN-SUFFIX,www.mrsd.top
   - DOMAIN-SUFFIX,ittushu.net
   - DOMAIN-SUFFIX,www.ikdmjx.com
-  - DOMAIN-SUFFIX,bfikuncdn.com
-  - DOMAIN-SUFFIX,kkzycdn.com
   - DOMAIN-SUFFIX,www.letv.lol
   - DOMAIN-SUFFIX,feisuzyapi.com
   - DOMAIN-SUFFIX,tiankongapi.com
@@ -103,23 +83,18 @@ payload:
   - DOMAIN-SUFFIX,yhdmjx.com
   - DOMAIN-SUFFIX,yinghuazy.xyz
   - DOMAIN-SUFFIX,295k.cc
-  - DOMAIN-SUFFIX,hypstarcdn.com
-  - DOMAIN-SUFFIX,individual.githubcopilot.com
   - DOMAIN-SUFFIX,cjhwba.com
   - DOMAIN-SUFFIX,edge4k.com
   - DOMAIN-SUFFIX,ati.com
   - DOMAIN-SUFFIX,coze.cn
-  - DOMAIN-SUFFIX,kermitt2-grobid.hf.space
   - DOMAIN-SUFFIX,zotero.org
   - DOMAIN-SUFFIX,okzyw.cc
   - DOMAIN-SUFFIX,bxgbnet.com
   - DOMAIN-SUFFIX,9bcdf.com
   - DOMAIN-SUFFIX,sdzyapi.com
   - DOMAIN-SUFFIX,isc.org
-  - DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
   - DOMAIN-SUFFIX,ppdys.vip
   - DOMAIN-SUFFIX,myrqsb.com
-  - DOMAIN-SUFFIX,qkys1.vip
   - DOMAIN-SUFFIX,typst.app
   - DOMAIN-SUFFIX,lziapi.com
   - DOMAIN-SUFFIX,viptulz.com
@@ -128,21 +103,38 @@ payload:
   - DOMAIN-SUFFIX,boardgamearena.com
   - DOMAIN-SUFFIX,maccms.xyz
   - DOMAIN-SUFFIX,union.dplayerjs.com
-  - DOMAIN-SUFFIX,qkys2.icu
   - DOMAIN-SUFFIX,t2.qlplayer.cyou
   - DOMAIN-SUFFIX,36kdh.com
-  - DOMAIN-SUFFIX,ifznedy1.com,DIRECT
-  - DOMAIN-SUFFIX,qiaozhixuexiao.com,DIRECT
-  - DOMAIN-SUFFIX,dmdy3.com,DIRECT
-  - DOMAIN-SUFFIX,vidyard.com,DIRECT
-  - DOMAIN-SUFFIX,conch.cc,DIRECT
-  - DOMAIN-SUFFIX,huohua.live,DIRECT
-  - DOMAIN-SUFFIX,bugutv.vip,DIRECT
-  - DOMAIN-SUFFIX,histat.com,DIRECT
-  - DOMAIN-SUFFIX,danmk.info,DIRECT
-  - DOMAIN-SUFFIX,gotomymv.life,DIRECT
-  - DOMAIN-SUFFIX,dytt-img.com,DIRECT
-  - DOMAIN-SUFFIX,857yhw.com,DIRECT
+  - DOMAIN-SUFFIX,ifznedy1.com
+  - DOMAIN-SUFFIX,qiaozhixuexiao.com
+  - DOMAIN-SUFFIX,dmdy3.com
+  - DOMAIN-SUFFIX,vidyard.com
+  - DOMAIN-SUFFIX,conch.cc
+  - DOMAIN-SUFFIX,huohua.live
+  - DOMAIN-SUFFIX,bugutv.vip
+  - DOMAIN-SUFFIX,histat.com
+  - DOMAIN-SUFFIX,danmk.info
+  - DOMAIN-SUFFIX,gotomymv.life
+  - DOMAIN-SUFFIX,dytt-img.com
+  - DOMAIN-SUFFIX,857yhw.com
+  - DOMAIN-SUFFIX,gitignore.io
+  - DOMAIN-SUFFIX,nixos.org
+  
+  - DOMAIN-KEYWORD,myd
+  - DOMAIN-KEYWORD,meiyd
+  - DOMAIN-KEYWORD,ikzy
+  - DOMAIN-KEYWORD,ikunzy
+  - DOMAIN-KEYWORD,lkvod
+  - DOMAIN-KEYWORD,fsvod
+  - DOMAIN-KEYWORD,ukubf
+  - DOMAIN-KEYWORD,freeok
+  - DOMAIN-KEYWORD,zhuiyingmao
+  - DOMAIN-KEYWORD,ffzy
+  - DOMAIN-KEYWORD,4kvm
+  - DOMAIN-KEYWORD,qkys
+  - DOMAIN-KEYWORD,yxxq
+  - DOMAIN-KEYWORD,cdn
+  - DOMAIN-KEYWORD,mcp.
   
   - DOMAIN-REGEX,ukuapi\w*\.com
   - DOMAIN-REGEX,vidhub\d+?\.cc
