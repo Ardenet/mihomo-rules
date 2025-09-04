@@ -30,6 +30,10 @@ payload:
   - DOMAIN,aliyun-oss.bootscup.com
   - DOMAIN,kermitt2-grobid.hf.space
   - DOMAIN,individual.githubcopilot.com
+  - DOMAIN,img.picbf.com
+  - DOMAIN,pic3.yzzyimg.online
+  - DOMAIN,www.toptal.com
+  - DOMAIN,vt.panghair.com
   
   - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,npmmirror.com
