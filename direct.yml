@@ -1,4 +1,6 @@
 payload:
+  - AND,((DOMAIN-SUFFIX,github.com),(DST-PORT,22))
+
   # steam 直连资源域名
   - DOMAIN,steambroadcast.akamaized.net
   - DOMAIN,steamcdn-a.akamaihd.net
@@ -34,6 +36,7 @@ payload:
   - DOMAIN,pic3.yzzyimg.online
   - DOMAIN,www.toptal.com
   - DOMAIN,vt.panghair.com
+  - DOMAIN,ardenet.netlify.app
   
   - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,npmmirror.com
@@ -123,6 +126,7 @@ payload:
   - DOMAIN-SUFFIX,857yhw.com
   - DOMAIN-SUFFIX,gitignore.io
   - DOMAIN-SUFFIX,nixos.org
+  - DOMAIN-SUFFIX,zym888.com
   
   - DOMAIN-KEYWORD,myd
   - DOMAIN-KEYWORD,meiyd
