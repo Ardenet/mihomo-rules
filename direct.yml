@@ -143,6 +143,7 @@ payload:
   - DOMAIN-KEYWORD,yxxq
   - DOMAIN-KEYWORD,cdn
   - DOMAIN-KEYWORD,mcp.
+  - DOMAIN-KEYWORD,1ytsub
   
   - DOMAIN-REGEX,ukuapi\w*\.com
   - DOMAIN-REGEX,vidhub\d+?\.cc
