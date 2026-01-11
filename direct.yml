@@ -2,20 +2,22 @@ payload:
   - AND,((DOMAIN-SUFFIX,github.com),(DST-PORT,22))
 
   # steam 直连资源域名
-  - DOMAIN,steambroadcast.akamaized.net
+  # - DOMAIN,steambroadcast.akamaized.net
+  # - DOMAIN,steamcdn-a.akamaihd.net
+  # - DOMAIN,steamcommunity-a.akamaihd.net
+  # - DOMAIN,steamstore-a.akamaihd.net
+  # - DOMAIN,steamusercontent-a.akamaihd.net
+  # - DOMAIN,steamusercontent-a.akamaihd.net
+  # - DOMAIN,steamuserimages-a.akamaihd.net
+  # - DOMAIN-SUFFIX,steam-chat.com
+  # - DOMAIN-SUFFIX,steamcontent.com
+  # - DOMAIN-SUFFIX,steamgames.com
+  # - DOMAIN-SUFFIX,steampowered.com
+  # - DOMAIN-SUFFIX,steamstat.us
+  # - DOMAIN-SUFFIX,steamstatic.com
+  # - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN,steamcdn-a.akamaihd.net
-  - DOMAIN,steamcommunity-a.akamaihd.net
-  - DOMAIN,steamstore-a.akamaihd.net
-  - DOMAIN,steamusercontent-a.akamaihd.net
-  - DOMAIN,steamusercontent-a.akamaihd.net
-  - DOMAIN,steamuserimages-a.akamaihd.net
-  - DOMAIN-SUFFIX,steam-chat.com
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steamgames.com
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamstat.us
-  - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamserver.net
 
   - DOMAIN,m3u.nikanba.live
   - DOMAIN,api.wujinapi.me
@@ -37,6 +39,7 @@ payload:
   - DOMAIN,www.toptal.com
   - DOMAIN,vt.panghair.com
   - DOMAIN,ardenet.netlify.app
+  - DOMAIN,ts10.bnyxgd.com
   
   - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,npmmirror.com
