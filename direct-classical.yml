@@ -1,0 +1,27 @@
+payload:
+  - AND,((DOMAIN-SUFFIX,github.com),(DST-PORT,22))
+
+  - DOMAIN-KEYWORD,myd
+  - DOMAIN-KEYWORD,meiyd
+  - DOMAIN-KEYWORD,ikzy
+  - DOMAIN-KEYWORD,ikunzy
+  - DOMAIN-KEYWORD,lkvod
+  - DOMAIN-KEYWORD,fsvod
+  - DOMAIN-KEYWORD,ukubf
+  - DOMAIN-KEYWORD,ukuapi
+  - DOMAIN-KEYWORD,vidhub
+  - DOMAIN-KEYWORD,freeok
+  - DOMAIN-KEYWORD,zhuiyingmao
+  - DOMAIN-KEYWORD,ffzy
+  - DOMAIN-KEYWORD,4kvm
+  - DOMAIN-KEYWORD,qkys
+  - DOMAIN-KEYWORD,yxxq
+  - DOMAIN-KEYWORD,cdn
+  - DOMAIN-KEYWORD,mcp.
+  - DOMAIN-KEYWORD,1ytsub
+  
+  - DOMAIN-REGEX,.*huawei\d+\.live
+  - DOMAIN-REGEX,(?<!(cache.*|))nixos\.org
+  - DOMAIN-REGEX,epicgames-download\d\.akamaized\.net
+  
+  - PROCESS-NAME,parsecd.exe
